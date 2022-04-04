@@ -1,0 +1,10 @@
+.topBanner div img {
+    max-width: 1100px;
+}
+
+.topBanner {
+    background-image: url('../../../images/galax.png');
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: auto;
+}
