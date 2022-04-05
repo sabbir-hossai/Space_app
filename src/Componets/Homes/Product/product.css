@@ -1,0 +1,9 @@
+.cardColor {
+    background-color: rgb(29, 18, 62) !important;
+}
+
+.imgSize {
+    width: 150px;
+    height: auto;
+    align-items: center !important;
+}
