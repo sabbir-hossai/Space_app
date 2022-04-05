@@ -3,7 +3,7 @@ import React from 'react';
 const DiscoverUniverse = () => {
     return (
         <div>
-            <h1>Discover Universe</h1>
+            <h1 className='text-center'>Discover Universe</h1>
         </div>
     );
 };

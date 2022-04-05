@@ -11,7 +11,7 @@ const MainProducts = () => {
     }, [])
 
     return (
-        <div className='container'>
+        <div className='container mt-5 mb-5'>
             <div className="row row-cols-1 row-cols-lg-4 g-2">
                 {
                     products.map(data => <Product

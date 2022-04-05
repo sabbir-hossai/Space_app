@@ -1,0 +1,25 @@
+.footerBody {
+    background-color: rgb(24, 22, 59);
+}
+
+.subscribe {
+    width: 640px;
+    height: 57px;
+    left: 260px;
+}
+
+.subscribe input {
+    background-color: rgb(24, 22, 59);
+}
+
+
+.footerImg {
+    width: 51px;
+    height: 45px;
+}
+
+.footerSpace {
+    font-size: 500;
+    height: 24px;
+    width: 66px;
+}
