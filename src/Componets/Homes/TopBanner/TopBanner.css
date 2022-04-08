@@ -3,8 +3,54 @@
 }
 
 .topBanner {
-    background-image: url('../../../images/galax.png');
-    background-repeat: no-repeat;
-    display: block;
-    margin-left: auto;
+    position: relative;
+}
+
+.mainImg img {
+    margin-top: 10px;
+    position: relative;
+    top: -25px;
+    right: -100px;
+}
+
+
+
+.mainBg img {
+    width: 650px;
+    height: auto;
+    position: absolute;
+    right: 0px;
+    top: -70px;
+
+
+}
+
+.mainBg2 img {
+    width: 600px;
+    height: auto;
+    position: absolute;
+    top: 120px;
+    right: 290px;
+
+}
+
+.ring img {
+    width: 80px;
+    position: absolute;
+    top: 500px;
+    right: 110px
+}
+
+.ston img {
+    width: 80px;
+    position: absolute;
+    top: -40px;
+    right: 320px
+}
+
+.box img {
+    width: 120px;
+    position: absolute;
+    top: 25px;
+    left: 0;
 }
