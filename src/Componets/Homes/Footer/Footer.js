@@ -12,7 +12,7 @@ const Footer = () => {
                 <h1 className='text-center m-5'>Newsletter</h1>
                 <div class="input-group subscribe d-flex justify-content-center pb-5">
                     <input type="text" class="form-control " placeholder="Email address" />
-                    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Subscribe</button>
+                    <button class="btn btn-outline-secondary" type="button " id="button-addon2">Subscribe</button>
                 </div>
                 <div className='d-flex justify-content-around text-center mt-5'>
                     <div className='d-flex m-3'>

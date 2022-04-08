@@ -12,7 +12,7 @@ const MainProducts = () => {
 
     return (
         <div className='container mt-5 mb-5'>
-            <div className="row row-cols-1 row-cols-lg-4 g-2">
+            <div className="row row-cols-1 row-cols-lg-4 g-4">
                 {
                     products.map(data => <Product
                         key={data.flight_number}

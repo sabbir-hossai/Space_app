@@ -1,0 +1,11 @@
+.discoverBody {
+    background-color: rgb(24, 22, 59);
+}
+
+.DiscoverCardColor {
+    background-color: rgb(35, 30, 68);
+}
+
+.DiscoverDBCardColor {
+    background-image: linear-gradient(to right, rgb(37, 25, 184), rgb(207, 40, 229));
+}
