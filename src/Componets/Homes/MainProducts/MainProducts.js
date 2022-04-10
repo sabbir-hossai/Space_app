@@ -1,10 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import ProductFiltter from '../Pfiltter/ProductSearchBar';
 import Product from '../Product/Product';
-import { useProducts } from './useProducts';
 import './MainProducts.css';
-import Pagination from '../Pagination/Pagination';
-import axios from 'axios';
 
 const MainProducts = () => {
     const [products, setProducts] = useState([]);
