@@ -2,9 +2,8 @@ import React from 'react';
 import './product.css';
 
 const Product = (props) => {
-    console.log(props.data)
     const { links, mission_name, rocket, launch_year, upcoming } = props.data;
-    console.log(upcoming)
+
     return (
         <div>
             <div className="col">
